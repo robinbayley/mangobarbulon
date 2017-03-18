@@ -24,7 +24,7 @@ a:hover {
  * Base structure
  */
 
-html { 
+body { 
   background: url(http://mangobarbulon.com/assets/images/image.jpeg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
